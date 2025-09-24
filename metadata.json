@@ -1,0 +1,5 @@
+{
+  "name": "InstaFetch",
+  "description": "A web application to fetch and display public Instagram posts by providing a URL or shortcode. It's designed with a clean, modern interface for a smooth user experience.",
+  "requestFramePermissions": []
+}
